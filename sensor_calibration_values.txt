@@ -1,0 +1,6 @@
+Im Wasser: 1270-1280
+Trocken an der Luft: 3125-3135
+In trockener Erde: 1620-1650
+Frische gewässerte Erde: 1800-1820 (sinkt weiter - nach ca. 3min bei etwa 1700: Wasser sickert noch durch die Erde?)
+
+Notiz neue Pumpe: VCC in Relais und GND in GND (Batterie)
